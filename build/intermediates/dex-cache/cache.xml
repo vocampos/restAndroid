@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/valbert/StudioProjects/rest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.0_c93f4da0c0e563c1205e2b8520c4b8a30b6d1b63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/valbert/StudioProjects/rest/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_d2a42f5858dcaa276db1f44996aeebb1343f1195/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/StudioProjects/rest/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/valbert/StudioProjects/rest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_130bac8dd9c599864b2440efb9efd0a2a503466e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e09011e9767bb76b5e27c9b8223476b93b14631">
+        <dex dex="/Users/valbert/StudioProjects/rest/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.3.0_bd41edcc74df09e643b7b40ce08c8f228693f563/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/valbert/StudioProjects/rest/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.3.0_d7c388543b26b33f2375a0618e69aa07859fb867/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/StudioProjects/rest/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4a0f67b5f70eb4ee5aa7218a4762e2b629ff889">
+        <dex dex="/Users/valbert/StudioProjects/rest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_32758b6c586d5f749660fb1e3f3dcc49d7e10118/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/StudioProjects/restAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/valbert/StudioProjects/restAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_15b1155b5ba82ae4a18f6cc988bb1b25825862d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/valbert/StudioProjects/rest/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_d253d7c080c81459ecf847caf4934f055df74a98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/valbert/StudioProjects/restAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="05ec9eb47908ab36d058cac4bb55054822de0191">
+        <dex dex="/Users/valbert/StudioProjects/restAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e22fda3115a5b1ac47beb1d05e4d80db68707da4/classes.dex" />
+    </item>
+
+</items>

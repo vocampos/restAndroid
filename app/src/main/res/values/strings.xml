@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">rest</string>
+    <string name="title_activity_bitcoin">BitcoinActivity</string>
+</resources>
