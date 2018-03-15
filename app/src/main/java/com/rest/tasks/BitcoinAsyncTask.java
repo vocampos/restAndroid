@@ -13,8 +13,6 @@ import java.net.URL;
 
 public class BitcoinAsyncTask extends AsyncTask<String, Object, String> {
 
-    private ProgressBar progressBar;
-
     @Override
     protected String doInBackground(String... params) {
         String stringUrl = params[0];
